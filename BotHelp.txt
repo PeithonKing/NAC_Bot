@@ -1,0 +1,7 @@
+PREFFIX = "/" (Add a "." before every command to work)
+
+AstronomyBot commands:
+
+1) "<command_name>"
+	Result: <What will this command do?>
+	aliases = [<list of aliases here>]
