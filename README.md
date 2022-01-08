@@ -1,3 +1,5 @@
+# NAC_Bot
+
 This is the official bot for the NISER (National Institute of Science Education and Research) Astronomy Club's Discord server.
 The primary intention for the development of this bot is to provide a collection of resources and tools that could be utilised by club members before, during, and after the conduction of skywatching sessions.
 For v0.1 of NAC_Bot, The following features are currently being added to the repository:
